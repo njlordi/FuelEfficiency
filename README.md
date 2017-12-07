@@ -3,7 +3,7 @@ Calculates your car's miles per gallon rating using MIPS architecture instructio
 
 Intructions:
 
-    Java and Mars MIPS Simulator must be installed installed.
+    Java and Mars MIPS Simulator must be installed.
     
     Open the .ASM file in Mars.
     
