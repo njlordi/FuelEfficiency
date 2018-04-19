@@ -1,7 +1,7 @@
 # FuelEfficiency
 Calculates your car's miles per gallon rating using MIPS architecture instruction set.
 
-Intructions:
+Instructions:
 
     Java and Mars MIPS Simulator must be installed.
     
